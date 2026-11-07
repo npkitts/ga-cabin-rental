@@ -1,0 +1,72 @@
+{
+  "overall_rating": 4.87,
+  "total_review_count": 62,
+  "rating_breakdown": {
+    "cleanliness": 4.9,
+    "accuracy": 4.8,
+    "check_in": 5.0,
+    "communication": 4.9,
+    "location": 4.8,
+    "value": 4.9
+  },
+  "reviews": [
+    {
+      "guest_name": "Raymond",
+      "location": "Macon, Georgia",
+      "date": "September 2025",
+      "star_rating": 5,
+      "stay_details": "Stayed a few nights",
+      "review_text": "I highly recommend Teresa's Airbnb. It is very comfortable and supplied with everything you might need. Downstairs has a queen size bed while upstairs has 2 Full Size Beds. The area..."
+    },
+    {
+      "guest_name": "Joyce",
+      "location": "Palm Bay, Florida",
+      "date": "October 2026",
+      "star_rating": 5,
+      "stay_details": "Stayed with a pet",
+      "review_text": "The cabin was welcoming, cozy and comfortable. One of the cleanest and well appointed properties I have ever rented. Felt right at home and so did our dog."
+    },
+    {
+      "guest_name": "Rebecca",
+      "location": "Parrish, Florida",
+      "date": "June 2025",
+      "star_rating": 5,
+      "stay_details": "Stayed with kids",
+      "review_text": "Perfect little cabin in the woods! Teresa was a great host, very responsive and gave great directions to her cabin and answered all questions I had leading up to the trip. The cabin..."
+    },
+    {
+      "guest_name": "Terence",
+      "location": "Atlanta, Georgia",
+      "date": "May 2024",
+      "star_rating": 5,
+      "stay_details": "Stayed a few nights",
+      "review_text": "We had a wonderful time at this beautiful cabin. We celebrated our 12 wedding anniversary and it was perfect. The host had everything you could or would need in the..."
+    },
+    {
+      "guest_name": "Stephanie",
+      "location": "Pembroke Pines, Florida",
+      "date": "July 2024",
+      "star_rating": 5,
+      "stay_details": "Stayed with kids",
+      "review_text": "Cabin was wonderful. Description was accurate. We enjoyed the beautiful scenery and CD collection. Looking forward to coming back again."
+    },
+    {
+      "guest_name": "D",
+      "location": "12 years on Airbnb",
+      "date": "August 2023",
+      "star_rating": 5,
+      "stay_details": "Stayed a few nights",
+      "review_text": "The perfect mountain spot, cozy, clean and comfortable. This location is perfect to get anywhere and gives you the full cabin experience. We slept great on a very comfortable bed..."
+    }
+  ],
+  "common_mentions": {
+    "Location": 21,
+    "Cleanliness": 21,
+    "View": 11,
+    "Hospitality": 18,
+    "Comfort": 10,
+    "Outdoor spaces": 5,
+    "Hiking": 3
+  },
+  "extraction_notes": "Successfully loaded the Airbnb listing page. No cookie banner appeared. The page displays 6 reviews on the main listing page before requiring a 'Show all 62 reviews' button click. Multiple attempts to open the full reviews modal were unsuccessful - the button did not trigger a modal overlay. The 6 reviews extracted represent all reviews visible on the main listing page without modal access. Some review texts were truncated with 'Show more' links that also did not expand when clicked. All visible reviews show 5-star ratings."
+}
